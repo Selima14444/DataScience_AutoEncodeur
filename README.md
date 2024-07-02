@@ -40,4 +40,4 @@ Visualize the learned constellation by plotting the encoded representations usin
 - [Autoencoder Research Paper](https://arxiv.org/pdf/1702.00832)
 - [PyTorch Normalization Documentation](https://pytorch.org/docs/stable/generated/torch.nn.functional.normalize.html)
   
-This README provides a comprehensive guide to implementing and training an autoencoder model for message encoding and decoding tasks.
+This README provides a comprehensive guide to implementing and training an autoencoder model for message encoding and decoding tasks. The entire workflow has been conducted in Google Colab.
